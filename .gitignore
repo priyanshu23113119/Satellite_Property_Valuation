@@ -1,0 +1,20 @@
+# Ignore image data
+data/images/
+*.jpg
+*.png
+
+# Ignore large generated CSVs
+train_actual_vs_predicted.csv
+final_test_with_predictions.csv
+test_predictions_final.csv
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+env/
+
+# macOS junk
+.DS_Store
