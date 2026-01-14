@@ -9,4 +9,6 @@ This project predicts property prices using satellite imagery and tabular housin
 
 ## Results
 - Multimodal CNN R² ≈ 0.75
+-RMSE= 139,578.85
+-GradCam
 - Tabular-only models 
